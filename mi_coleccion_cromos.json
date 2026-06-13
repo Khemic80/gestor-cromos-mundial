@@ -1,0 +1,899 @@
+{
+    "Corea del Sur": {
+        "faltas": [],
+        "repes": [
+            "KOR 1 - Escudo"
+        ]
+    },
+    "Algeria": {
+        "faltas": [
+            "ALG 1 - Escudo",
+            "ALG 10 - Hicham Boudaoui",
+            "ALG 13 - Foto Equipo",
+            "ALG 15 - Riyad Mahrez",
+            "ALG 18 - Amine Gouiri",
+            "ALG 2 - Alexis Guendouz",
+            "ALG 8 - Ismaél Bennacer"
+        ],
+        "repes": [
+            "ALG 11 - Ramiz Zerrouki",
+            "ALG 12 - Nabil Bentaleb",
+            "ALG 3 - Ramy Bensebaini",
+            "ALG 4 - Youcef Atal",
+            "ALG 6 - Mohamed Amine Tougai"
+        ]
+    },
+    "Bosnia": {
+        "faltas": [
+            "BIH 1 - Escudo",
+            "BIH 10 - Armin Gigović",
+            "BIH 11 - Ivan Šunjić",
+            "BIH 12 - Ivan Bašić",
+            "BIH 17 - Ermedin Demirović",
+            "BIH 18 - Edin Džeko",
+            "BIH 19 - Samed Baždar",
+            "BIH 4 - Sead Kolašinac",
+            "BIH 5 - Tarik Muharemović",
+            "BIH 9 - Benjamin Tahirović"
+        ],
+        "repes": []
+    },
+    "España": {
+        "faltas": [
+            "ESP 10 - Rodri",
+            "ESP 11 - Pedri",
+            "ESP 14 - Mikel Merino",
+            "ESP 17 - Nico Williams",
+            "ESP 19 - Álvaro Morata",
+            "ESP 2 - Unai Simón",
+            "ESP 4 - Aymeric Laporte",
+            "ESP 7 - Dani Carvajal"
+        ],
+        "repes": [
+            "ESP 16 - Dani Olmo",
+            "ESP 20 - Mikel Oyarzabal",
+            "ESP 5 - Dean Huijsen",
+            "ESP 6 - Pedro Porro",
+            "ESP 8 - Marc Cucurella"
+        ]
+    },
+    "Paraguay": {
+        "faltas": [
+            "PAR 1 - Escudo",
+            "PAR 11 - Damián Bobadilla",
+            "PAR 14 - Matías Galarza Fonda",
+            "PAR 16 - Alejandro Romero Gamarra",
+            "PAR 18 - Ramón Sosa",
+            "PAR 2 - Roberto Fernández",
+            "PAR 20 - Antonio Sanabria",
+            "PAR 5 - Fabián Balbuena",
+            "PAR 9 - Mathías Villasanti"
+        ],
+        "repes": [
+            "PAR 15 - Julio Enciso",
+            "PAR 19 - Ángel Romero"
+        ]
+    },
+    "Qatar": {
+        "faltas": [
+            "QAT 11 - Assim Madibo",
+            "QAT 14 - Mohammed Waad",
+            "QAT 17 - Edmilson Junior",
+            "QAT 2 - Meshaal Barsham",
+            "QAT 20 - Almoez Ali",
+            "QAT 4 - Lucas Mendes",
+            "QAT 6 - Boualem Khoukhi"
+        ],
+        "repes": [
+            "QAT 12 - Hamed Fatehi",
+            "QAT 13 - Foto Equipo",
+            "QAT 15 - Abdulaziz Hatem",
+            "QAT 19 - Ahmed Al-Ganehi"
+        ]
+    },
+    "Argentina": {
+        "faltas": [
+            "ARG 14 - Nico Paz",
+            "ARG 16 - Nico González",
+            "ARG 17 - Lionel Messi",
+            "ARG 18 - Lautaro Martínez",
+            "ARG 4 - Cristian Romero",
+            "ARG 6 - Nicolás Tagliafico",
+            "ARG 7 - Leonardo Balerdi",
+            "ARG 9 - Alexis Mac Allister"
+        ],
+        "repes": [
+            "ARG 11 - Exequiel Palacios",
+            "ARG 15 - Franco Mastantuono",
+            "ARG 19 - Julián Álvarez",
+            "ARG 2 - Emiliano Martínez"
+        ]
+    },
+    "New Zealand": {
+        "faltas": [
+            "NZL 1 - Escudo",
+            "NZL 10 - Joe Bell",
+            "NZL 12 - Ryan Thomas",
+            "NZL 15 - Marko Stamenić",
+            "NZL 16 - Ben Old",
+            "NZL 17 - Chris Wood",
+            "NZL 18 - Elijah Just",
+            "NZL 19 - Callum McCowatt",
+            "NZL 4 - Michael Boxall",
+            "NZL 8 - Francis de Vries"
+        ],
+        "repes": [
+            "NZL 11 - Sarpreet Singh",
+            "NZL 7 - Tyler Bindon"
+        ]
+    },
+    "Uzbekistan": {
+        "faltas": [
+            "UZB 10 - Odiljon Hamrobekov",
+            "UZB 11 - Otabek Shukurov",
+            "UZB 12 - Jamshid Iskanderov",
+            "UZB 14 - Azizbek Turgunboev",
+            "UZB 15 - Khojimat Erkinov",
+            "UZB 18 - Jalolidoin Masharipov",
+            "UZB 20 - Abbosbek Favzullaev",
+            "UZB 4 - Sherzod Nasrullaev",
+            "UZB 6 - Husniddin Aliqulov",
+            "UZB 9 - Abdukodir Khusanov"
+        ],
+        "repes": [
+            "UZB 19 - Igor Sergeev"
+        ]
+    },
+    "Australia": {
+        "faltas": [
+            "AUS 12 - Riley McGree",
+            "AUS 13 - Team Photo",
+            "AUS 15 - Connor Metcalfe",
+            "AUS 16 - Patrick Yazbek",
+            "AUS 18 - Kusini Yengi",
+            "AUS 2 - Mathew Ryan",
+            "AUS 20 - Mohamed Touré",
+            "AUS 4 - Harry Souttar",
+            "AUS 5 - Alessandro Circati",
+            "AUS 7 - Aziz Behich",
+            "AUS 9 - Lewis Miller"
+        ],
+        "repes": []
+    },
+    "Morocco": {
+        "faltas": [
+            "MAR 10 - Sofyan Amrabat",
+            "MAR 12 - Eliesse Ben Seghir",
+            "MAR 13 - Foto Equipo",
+            "MAR 15 - Ismael Saibari",
+            "MAR 4 - Achraf Hakimi",
+            "MAR 6 - Nayef Aguerd",
+            "MAR 7 - Romain Saïss"
+        ],
+        "repes": [
+            "MAR 1 - Escudo",
+            "MAR 11 - Azzedine Ounahi",
+            "MAR 20 - Ayoub El Kaabi",
+            "MAR 8 - Jawad El Yamiq"
+        ]
+    },
+    "Croatia": {
+        "faltas": [
+            "CRO 1 - Escudo",
+            "CRO 14 - Mario Pašalić",
+            "CRO 15 - Petar Sučić",
+            "CRO 20 - Franjo Ivanović",
+            "CRO 3 - Duje Caleta-Car",
+            "CRO 6 - Luka Vušković",
+            "CRO 8 - Kristijan Jakić"
+        ],
+        "repes": [
+            "CRO 16 - Ivan Perišić",
+            "CRO 2 - Dominik Livaković",
+            "CRO 7 - JJosip Šutalo",
+            "CRO 9 - Luka Modrić"
+        ]
+    },
+    "México": {
+        "faltas": [
+            "MEX 1 - Escudo",
+            "MEX 10 - Edson Álvarez",
+            "MEX 11 - Orbelin Pineda",
+            "MEX 13 - Foto Equipo",
+            "MEX 16 - Santiago Giménez",
+            "MEX 17 - Raúl Jiménez",
+            "MEX 2 - Luis Malagón",
+            "MEX 4 - Jorge Sánchez",
+            "MEX 6 - Jesús Gallardo",
+            "MEX 7 - Israel Reyes",
+            "MEX 9 - Carlos Rodríguez"
+        ],
+        "repes": [
+            "MEX 14 - Érick Sánchez"
+        ]
+    },
+    "South Africa": {
+        "faltas": [
+            "RSA 11 - Teboho Mokoena",
+            "RSA 14 - Bathusi Aubaas",
+            "RSA 15 - Yaya Sithole",
+            "RSA 16 - Sipho Mbule",
+            "RSA 17 - Lyle Foster",
+            "RSA 18 - Iqraam Rayners",
+            "RSA 2 - Ronwen Williams",
+            "RSA 4 - Aubrey Modiba",
+            "RSA 6 - Khuliso Mudau",
+            "RSA 7 - Khulumani Ndamane"
+        ],
+        "repes": [
+            "RSA 1 - Escudo",
+            "RSA 20 - Oswin Appollis",
+            "RSA 5 - Samukele Kabini",
+            "RSA 8 - Siyabonga Ngezana"
+        ]
+    },
+    "Korea Republic": {
+        "faltas": [
+            "KOR 10 - Jaesung Lee",
+            "KOR 11 - Inbeom Hwang",
+            "KOR 12 - Kangin Lee",
+            "KOR 14 - Seungho Paik",
+            "KOR 16 - Donggyeong Lee",
+            "KOR 17 - Guesung Cho",
+            "KOR 18 - Heungmin Son",
+            "KOR 19 - Heechan Hwang",
+            "KOR 3 - Seunggyu Kim",
+            "KOR 5 - Yumin Cho",
+            "KOR 7 - Hanbeom Lee",
+            "KOR 8 - Taeseok Lee",
+            "KOR 9 - Myungjae Lee"
+        ],
+        "repes": [
+            "KOR 2 - Hyeonwoo Jo",
+            "KOR 20 - Hyeongyu Oh"
+        ]
+    },
+    "Jordan": {
+        "faltas": [
+            "JOR 1 - Escudo",
+            "JOR 11 - Noor Al-Rawabder",
+            "JOR 12 - Mohannad Abu Taha",
+            "JOR 13 - Foto Equipo",
+            "JOR 15 - Mousa Al-Taamari",
+            "JOR 4 - Mohammad Abu Hashish",
+            "JOR 7 - Saleem Obaid"
+        ],
+        "repes": [
+            "JOR 18 - Ali Olwan",
+            "JOR 19 - Mohammad Abu Zrayq",
+            "JOR 2 - Yazeed Abulaila",
+            "JOR 20 - Ibrahim Sabra",
+            "JOR 5 - Yazan Al-Arab",
+            "JOR 8 - Mohammad Abualnadi"
+        ]
+    },
+    "Czechia": {
+        "faltas": [
+            "CZE 11 - Lukáš Červ",
+            "CZE 14 - Pavel Šulc",
+            "CZE 16 - Vasil Kušej",
+            "CZE 17 - Tomáš Chorý",
+            "CZE 18 - Václav Černý",
+            "CZE 4 - Ladislav Krejčí",
+            "CZE 5 - Vladimír Coufal",
+            "CZE 7 - Tomáš Holeš"
+        ],
+        "repes": [
+            "CZE 1 - Escudo",
+            "CZE 12 - Tomáš Souček",
+            "CZE 3 - Jindřich Staněk",
+            "CZE 6 - Jaroslav Zelený"
+        ]
+    },
+    "Canadá": {
+        "faltas": [
+            "CAN 11 - Ismaël Koné",
+            "CAN 12 - Jonathan Osorio",
+            "CAN 13 - Foto Equipo",
+            "CAN 17 - Tajon Buchanan",
+            "CAN 18 - Liam Millar",
+            "CAN 2 - Dayne St",
+            "CAN 20 - Jonathan David",
+            "CAN 3 - Alphonso Davies",
+            "CAN 5 - Samuel Adekugbe",
+            "CAN 8 - Moïse Bombito",
+            "CAN 9 - Kamal Miller"
+        ],
+        "repes": [
+            "CAN 16 - Niko Sigur",
+            "CAN 19 - Dyle Larin"
+        ]
+    },
+    "Switzerland": {
+        "faltas": [
+            "SUI 10 - Denis Zakaria",
+            "SUI 11 - Remo Freuler",
+            "SUI 14 - Ardon Jashari",
+            "SUI 3 - Yvon Mvogo",
+            "SUI 6 - Nico Elvedi"
+        ],
+        "repes": [
+            "SUI 1 - Escudo",
+            "SUI 12 - Fabian Rieder",
+            "SUI 20 - Zeki Amdouni",
+            "SUI 4 - Manuel Akanji",
+            "SUI 9 - Granit Xhaka"
+        ]
+    },
+    "Brazil": {
+        "faltas": [
+            "BRA 11 - Bruno Guimarães",
+            "BRA 14 - Vinicius Júnior",
+            "BRA 15 - Rodrygo",
+            "BRA 17 - Matheus Cunha",
+            "BRA 2 - Alisson",
+            "BRA 20 - Estévão",
+            "BRA 4 - Marquinhos",
+            "BRA 9 - Lucas Paquetá"
+        ],
+        "repes": [
+            "BRA 5 - Éder Militão",
+            "BRA 8 - Wesley"
+        ]
+    },
+    "Japan": {
+        "faltas": [
+            "JPN 10 - Ao Tanaka",
+            "JPN 12 - Takefusa Kubo",
+            "JPN 17 - Shuto Machino",
+            "JPN 19 - Koki Ogawa",
+            "JPN 4 - Ayumu Seko",
+            "JPN 6 - Shogo Taniguchi"
+        ],
+        "repes": [
+            "JPN 1 - Escudo",
+            "JPN 18 - Junya Ito",
+            "JPN 3 - Henry Heroki Mochizuki",
+            "JPN 7 - Tsuyoshi Watanabe",
+            "JPN 9 - Yuki Soma"
+        ]
+    },
+    "Haiti": {
+        "faltas": [
+            "HAI 11 - Danley Jean Jacques",
+            "HAI 13 - Foto Equipo",
+            "HAI 15 - Derrick Etienne Jr",
+            "HAI 16 - Josué Casimir",
+            "HAI 17 - Ruben Providence",
+            "HAI 2 - Johny Placide",
+            "HAI 20 - Frantzdy Pierrot",
+            "HAI 3 - Carlens Arcus",
+            "HAI 4 - Martin Expérience",
+            "HAI 5 - Jean-Kévin Duverne",
+            "HAI 9 - Hannes Delcroix"
+        ],
+        "repes": [
+            "HAI 18 - Duckens Nazon"
+        ]
+    },
+    "Scotland": {
+        "faltas": [
+            "SCO 10 - Grant Hanley",
+            "SCO 12 - Billy Gilmour",
+            "SCO 16 - Kenny McLean",
+            "SCO 17 - John McGinn",
+            "SCO 6 - Andrew Robertson",
+            "SCO 9 - Anthony Ralston"
+        ],
+        "repes": [
+            "SCO 1 - Escudo",
+            "SCO 15 - Ryan Christie"
+        ]
+    },
+    "USA": {
+        "faltas": [
+            "USA 1 - Escudo",
+            "USA 12 - Timothy Weah",
+            "USA 14 - Diego Luna",
+            "USA 17 - Brenden Aaronson",
+            "USA 18 - Ricardo Pepi",
+            "USA 19 - Haji Wright",
+            "USA 2 - Matt Freese",
+            "USA 20 - Folarin Balogun",
+            "USA 5 - Mark McKenzie",
+            "USA 6 - Alex Freeman",
+            "USA 7 - Antonee Robinson",
+            "USA 8 - Tyler Adams"
+        ],
+        "repes": [
+            "USA 4 - Tim Ream"
+        ]
+    },
+    "Austria": {
+        "faltas": [
+            "AUT 11 - Marcel Sabitzer",
+            "AUT 12 - Konrad Laimer",
+            "AUT 13 - Foto Equipo",
+            "AUT 14 - Florian Grillitsch",
+            "AUT 17 - Patrick Wimmer",
+            "AUT 18 - Christoph Baumgartner",
+            "AUT 2 - Alexander Schlager",
+            "AUT 20 - Marko Arnautović",
+            "AUT 3 - Patrick Pentz",
+            "AUT 4 - David Alaba",
+            "AUT 5 - Kevin Danso",
+            "AUT 7 - Stefan Bosch",
+            "AUT 8 - Phillipp Mwene",
+            "AUT 9 - Alexander Prass"
+        ],
+        "repes": [
+            "AUT 16 - Romano Schmid"
+        ]
+    },
+    "Türkiye": {
+        "faltas": [
+            "TUR 10 - Ismail Yüksek",
+            "TUR 11 - Hakan Çalhanoğlu",
+            "TUR 16 - Yunus Akgün",
+            "TUR 17 - Can Uzun",
+            "TUR 2 - Uğurcan Çakır",
+            "TUR 20 - Kenan Yildiz",
+            "TUR 4 - Zeki Çelik",
+            "TUR 5 - Abdülkereím Bardakgi"
+        ],
+        "repes": [
+            "TUR 12 - Orkun Kökçü",
+            "TUR 7 - Merih Demiral"
+        ]
+    },
+    "Germany": {
+        "faltas": [
+            "GER 11 - Florian Wirtz",
+            "GER 13 - Foto Equipo",
+            "GER 17 - Kai Havertz",
+            "GER 3 - Jonathan Tah",
+            "GER 4 - David Raum",
+            "GER 5 - Nico Schlotterbeck",
+            "GER 8 - Ridle Baku"
+        ],
+        "repes": [
+            "GER 1 - Escudo",
+            "GER 16 - Serge Gnabry",
+            "GER 20 - - Nick Woltemade"
+        ]
+    },
+    "Curaçao": {
+        "faltas": [
+            "CUW 16 - Jearl Margaritha",
+            "CUW 2 - Eloy Room",
+            "CUW 20 - Sontje Hansen",
+            "CUW 6 - Joshua Bremet"
+        ],
+        "repes": [
+            "CUW 10 - Godfried Roemeratoe",
+            "CUW 11 - Juninho Bacuna",
+            "CUW 18 - Jeremy Antonisse"
+        ]
+    },
+    "Côte d'Ivoire": {
+        "faltas": [
+            "CIV 11 - Seko Fofana",
+            "CIV 14 - Jean-Philippe Gbamin",
+            "CIV 16 - Sébastien Haller",
+            "CIV 17 - Simon Adingra",
+            "CIV 3 - Ghislain Konan",
+            "CIV 4 - Wilfried Singo",
+            "CIV 5 - Odilon Kossounou",
+            "CIV 6 - Evan Ndicka",
+            "CIV 7 - Willy Boly",
+            "CIV 9 - Ousmane Diomande"
+        ],
+        "repes": [
+            "CIV 12 - Ibrahim Sangaré"
+        ]
+    },
+    "Ecuador": {
+        "faltas": [
+            "ECU 11 - Kendry Páez",
+            "ECU 4 - Piero Hincapié",
+            "ECU 7 - Ángelo Preciado"
+        ],
+        "repes": [
+            "ECU 1 - Escudo",
+            "ECU 14 - John Yeboah",
+            "ECU 15 - Leonardo Campana",
+            "ECU 2 - Hernán Galíndez"
+        ]
+    },
+    "Netherlands": {
+        "faltas": [
+            "NED 1 - Escudo",
+            "NED 12 - Teun Koopmeiners",
+            "NED 14 - Frenkie de Jong",
+            "NED 15 - Xavi Simons",
+            "NED 16 - Justin Kluivert",
+            "NED 18 - Donyel Malen",
+            "NED 2 - Bart Verbruggen",
+            "NED 20 - Cody Gakpo",
+            "NED 4 - Micky van de Ven",
+            "NED 6 - Denzel Dumfries",
+            "NED 7 - Nathan Aké",
+            "NED 8 - Jeremie Frimpong"
+        ],
+        "repes": [
+            "NED 10 - Tijjani Reijnders",
+            "NED 11 - Ryan Gravenberch"
+        ]
+    },
+    "Sweden": {
+        "faltas": [
+            "SWE 11 - Yasin Ayari",
+            "SWE 15 - Ken Sema",
+            "SWE 17 - Dejan Kulusevski",
+            "SWE 19 - Alexander Isak",
+            "SWE 2 - Viktor Johansson",
+            "SWE 4 - Gabriel Dudmundsson",
+            "SWE 5 - Emil Holm"
+        ],
+        "repes": [
+            "SWE 1 - Escudo",
+            "SWE 10 - Jesper Karlström",
+            "SWE 12 - Mattias Svanberg",
+            "SWE 16 - Roony Bardghji"
+        ]
+    },
+    "Tunisia": {
+        "faltas": [
+            "TUN 10 - Aïssa Laïdouni",
+            "TUN 13 - Foto Equipo",
+            "TUN 17 - Hazem Mastouri",
+            "TUN 18 - Ismaël Gharbi",
+            "TUN 19 - Sayfallah Ltaief",
+            "TUN 3 - Aymen Dahmen",
+            "TUN 4 - Van Valery",
+            "TUN 5 - Montassar Talbi",
+            "TUN 8 - Dylan Bronn"
+        ],
+        "repes": [
+            "TUN 11 - Ferjani Sassi",
+            "TUN 15 - Elias Achouri"
+        ]
+    },
+    "Coca Cola - Edición España": {
+        "faltas": [
+            "CC1 - Lamine Yamal - España",
+            "CC10 - Lautaro Martínez - Argentina",
+            "CC11 - Harry Kane - Inglaterra",
+            "CC12 - Antonee Robinson - Estados Unidos",
+            "CC2 - Joshua Kimmich - Alemania",
+            "CC3 - Eduardo Camavinga - Francia",
+            "CC4 - Joško Gvardiol - Croacia",
+            "CC5 - Federico Valverde - Uruguay",
+            "CC6 - Virgil van Dijk - Paises Bajos",
+            "CC7 - Alphonso Davies - Canadá",
+            "CC8 - Raúl Jiménez - México",
+            "CC9 - William Saliba - Francia"
+        ],
+        "repes": []
+    },
+    "Belgium": {
+        "faltas": [
+            "BEL 10 - Amadou Onana",
+            "BEL 16 - Jërërmy Doku",
+            "BEL 17 - Charles de Ketelaere",
+            "BEL 18 - Leandro Trossard",
+            "BEL 19 - Loïs Openda",
+            "BEL 20 - Romelu Lukaku",
+            "BEL 3 - Arthur Theate",
+            "BEL 5 - Zeno Debast",
+            "BEL 7 - Maxim De Cuyper",
+            "BEL 8 - Thomas Meunier"
+        ],
+        "repes": [
+            "BEL 12 - Alexis Saelemaekers"
+        ]
+    },
+    "England": {
+        "faltas": [
+            "ENG 11 - Jude Bellingham",
+            "ENG 13 - Foto Equipo",
+            "ENG 16 - Phil Foden",
+            "ENG 17 - Bukayo Saka",
+            "ENG 19 - Marcus Rashford",
+            "ENG 2 - Jordan Pickford",
+            "ENG 20 - Ollie Watkins",
+            "ENG 4 - Marc Guéhi",
+            "ENG 5 - Ezri Konsa",
+            "ENG 9 - Jordan Henderson"
+        ],
+        "repes": [
+            "ENG 1 - Escudo",
+            "ENG 18 - Harry Kane"
+        ]
+    },
+    "Egypt": {
+        "faltas": [
+            "EGY 1 - Escudo",
+            "EGY 12 - Hamdy Fathy",
+            "EGY 13 - Foto Equipo",
+            "EGY 14 - Mohanad Lasheen",
+            "EGY 5 - Yasser Ibrahim"
+        ],
+        "repes": [
+            "EGY 11 - Zizo"
+        ]
+    },
+    "Portugal": {
+        "faltas": [
+            "POR 10 - Bruno Fernandes",
+            "POR 16 - Francisco Trincão",
+            "POR 18 - Gonçalo Ramos",
+            "POR 2 - Diogo Costa",
+            "POR 3 - José Sá",
+            "POR 4 - Rubén Dias",
+            "POR 7 - Nuno Mendes",
+            "POR 8 - Gonçalo Inácio"
+        ],
+        "repes": [
+            "POR 12 - Vitinha",
+            "POR 6 - Diogo Dalot"
+        ]
+    },
+    "IR Iran": {
+        "faltas": [
+            "IRN 14 - Omid Noorafkan",
+            "IRN 15 - Roozbeh Cheshmi",
+            "IRN 16 - Mohammad Mohebi",
+            "IRN 18 - Mehdi Taremi",
+            "IRN 20 - Ali Gholizadeh",
+            "IRN 5 - Milad Mohammadi",
+            "IRN 6 - Shojae Khalilzadeh",
+            "IRN 7 - Ramin Rezaeian",
+            "IRN 8 - Hossein Kanaani",
+            "IRN 9 - SAdegh Moharrami"
+        ],
+        "repes": [
+            "IRN 10 - Saleh Hardani",
+            "IRN 11 - Saeed Ezatolahi",
+            "IRN 17 - Sardar Azmoun",
+            "IRN 2 - Alireza Beiranvand"
+        ]
+    },
+    "Cabo Verde": {
+        "faltas": [
+            "CPV 10 - Kevin Pina",
+            "CPV 12 - Jamiro Monteiro",
+            "CPV 14 - Deroy Duarte",
+            "CPV 16 - Jovane Cabral",
+            "CPV 19 - Willy Semedo",
+            "CPV 2 - Vozinha",
+            "CPV 20 - Beb",
+            "CPV 4 - Pico",
+            "CPV 5 - Dinev",
+            "CPV 6 - Steven Moreira",
+            "CPV 7 - Wagner Pina",
+            "CPV 8 - João Paulo"
+        ],
+        "repes": [
+            "CPV 13 - Foto Equipo",
+            "CPV 9 - Yannick Semedo"
+        ]
+    },
+    "Saudi Arabia": {
+        "faltas": [
+            "KSA 11 - Abdullah Alkhaibari",
+            "KSA 12 - Nasser Aldawsari",
+            "KSA 14 - Saleh Abu Alshamat",
+            "KSA 15 - Marwan Alsahafi",
+            "KSA 16 - Salem Aldawsari",
+            "KSA 19 - Saleh Alshehri",
+            "KSA 2 - Nawaf Alaqidi",
+            "KSA 6 - Jehad Thikri",
+            "KSA 9 - Musab Aljuwayr"
+        ],
+        "repes": []
+    },
+    "Uruguay": {
+        "faltas": [
+            "URU 1 - Escudo",
+            "URU 10 - Federico Valverde",
+            "URU 11 - Giorgian de Arrascaeta",
+            "URU 14 - Manuel Ugarte",
+            "URU 15 - Nicolás de la Cruz",
+            "URU 2 - Sergio Rochet",
+            "URU 3 - Santiago Mele",
+            "URU 4 - Ronald Araújo",
+            "URU 5 - José María Giménez",
+            "URU 9 - Nhitam Nández"
+        ],
+        "repes": []
+    },
+    "FIFA World Cup History": {
+        "faltas": [
+            "FWC 0 - Logo Panini",
+            "FWC 11 - Alemania - Mundial Suiza 1964",
+            "FWC 12 - Brasil - Mundial Chile 1962",
+            "FWC 17 - Italia - Mundial Alemania 2006",
+            "FWC 19 - Argentina - Mundial Catar 2022",
+            "FWC 3 - Official Mascots",
+            "FWC 5 - Official Ball",
+            "FWC 6 - Canadá - Host Country Emblem"
+        ],
+        "repes": [
+            "FWC 15 - Brasil - Mundial USA 1994"
+        ]
+    },
+    "France": {
+        "faltas": [
+            "FRA 1 - Escudo",
+            "FRA 10 - Eduardo Camavinga",
+            "FRA 11 - Manu Koné",
+            "FRA 14 - Michael Olise",
+            "FRA 16 - Bradley Barcola",
+            "FRA 2 - Mike Maignan",
+            "FRA 3 - Theo Hernández",
+            "FRA 4 - William Saliba",
+            "FRA 5 - Jules Koundé"
+        ],
+        "repes": [
+            "FRA 17 - Désiré Doué",
+            "FRA 8 - Lucas Digne"
+        ]
+    },
+    "Senegal": {
+        "faltas": [
+            "SEN 10 - Pape Marar Sarr",
+            "SEN 11 - Pape Gueye",
+            "SEN 12 - Habib Diarra",
+            "SEN 15 - Sadio Mané",
+            "SEN 16 - Ismaïla Sarr",
+            "SEN 18 - Iliman Ndiaye",
+            "SEN 19 - Nicolas Jackson",
+            "SEN 2 - Eduardo Mendy",
+            "SEN 20 - Krépin Diatta",
+            "SEN 7 - El Hadji Malick Diouf"
+        ],
+        "repes": [
+            "SEN 5 - Abdoulaye Sec",
+            "SEN 8 - Kalidou Koulibaly"
+        ]
+    },
+    "Iraq": {
+        "faltas": [
+            "IRQ 1 - Escudo",
+            "IRQ 10 - Amir Al-Ammari",
+            "IRQ 11 - Ibrahim Bavesh",
+            "IRQ 15 - Aimar Sher",
+            "IRQ 16 - Marko Farji",
+            "IRQ 18 - Ali Al-Hamadi",
+            "IRQ 20 - Mohanad Ali",
+            "IRQ 3 - Rebin Sulaka",
+            "IRQ 4 - Hussein Ali",
+            "IRQ 5 - Akam Hashem",
+            "IRQ 6 - Merchas Doski"
+        ],
+        "repes": []
+    },
+    "Norway": {
+        "faltas": [
+            "NOR 1 - Escudo",
+            "NOR 14 - Patrick Berg",
+            "NOR 15 - Erling Haaland",
+            "NOR 2 - Ørjan Nyland",
+            "NOR 20 - Oscar Bobb",
+            "NOR 4 - Leo Østigård",
+            "NOR 5 - Kristoffer Vassbakk Ajer",
+            "NOR 6 - Marcus Holmgren Pedersen",
+            "NOR 7 - David Møller Wolfe",
+            "NOR 9 - Morten Thorsby"
+        ],
+        "repes": [
+            "NOR 13 - Foto Equipo",
+            "NOR 17 - Aron Dønnum",
+            "NOR 19 - Antonio Musa"
+        ]
+    },
+    "Congo DR": {
+        "faltas": [
+            "COD 11 - Samuel Moutoussamy",
+            "COD 12 - Noah Sadiki",
+            "COD 13 - Foto Equipo",
+            "COD 16 - Yoane Wissa",
+            "COD 17 - Brian Cipenga",
+            "COD 19 - Cédric Bakambu",
+            "COD 2 - Lionel Mpasi",
+            "COD 20 - Nathanaél Mbuku",
+            "COD 3 - Aaron Wan-Bissaka",
+            "COD 4 - Axel Tuanzebe",
+            "COD 8 - Charles Pickel"
+        ],
+        "repes": [
+            "COD 1 - Escudo",
+            "COD 14 - Théo Bongonda",
+            "COD 7 - Joris Kavembe"
+        ]
+    },
+    "Colombia": {
+        "faltas": [
+            "COL 1 - Escudo",
+            "COL 12 - Richard Ríos",
+            "COL 14 - James Rodríguez",
+            "COL 17 - Jhon Arias",
+            "COL 18 - Jhon Córdova",
+            "COL 19 - Luis Suárez",
+            "COL 20 - Luis Díaz",
+            "COL 5 - Yerry Mina",
+            "COL 6 - Daniel Muñoz",
+            "COL 7 - Johan Mojica",
+            "COL 9 - Santiago Arias"
+        ],
+        "repes": [
+            "COL 11 - Kevin Castaño",
+            "COL 13 - Foto Equipo"
+        ]
+    },
+    "Ghana": {
+        "faltas": [
+            "GHA 11 - Salis Abdul Samed",
+            "GHA 12 - Kamaldeen Sulemana",
+            "GHA 13 - Foto Equipo",
+            "GHA 14 - Mohammed Kudus",
+            "GHA 16 - Jordan Ayew",
+            "GHA 17 - André Ayew",
+            "GHA 18 - Joseph Paintsil",
+            "GHA 19 - Osman Bukari",
+            "GHA 2 - Lawrence Ati Zigi",
+            "GHA 20 - Antoine Semenyo",
+            "GHA 4 - Mohammed Salisu",
+            "GHA 6 - Alexanderr Djiku",
+            "GHA 7 - Gideon Mensah"
+        ],
+        "repes": [
+            "GHA 10 - Thomas Partey",
+            "GHA 15 - Iñaki Williams"
+        ]
+    },
+    "Panamá": {
+        "faltas": [
+            "PAN 1 - Escudo",
+            "PAN 10 - Cristian Martín",
+            "PAN 11 - Anibal Godoy",
+            "PAN 14 - Édgar Bárcenas",
+            "PAN 16 - Ismael Díaz",
+            "PAN 19 - José Luis Rodríguez",
+            "PAN 4 - Fidel Escobar",
+            "PAN 7 - Eric Davies",
+            "PAN 9 - César Blackman"
+        ],
+        "repes": [
+            "PAN 12 - Adalberto Carrasquilla",
+            "PAN 13 - Foto Equipo",
+            "PAN 17 - José Fajardo",
+            "PAN 2 - Orlando Mosquera"
+        ]
+    },
+    "Extra Sticker": {
+        "faltas": [
+            "EXT 1 - Lionel Messi - Argentina",
+            "EXT 10 - Kylian Mbappé - Francia",
+            "EXT 11 - Florian Wirtz - Alemania",
+            "EXT 12 - Raúl Jiménez - México",
+            "EXT 13 - Achraf Hakimi - Marruecos",
+            "EXT 14 - Cody Gakpo - Paises Bajos",
+            "EXT 15 - Erling Haaland - Noruega",
+            "EXT 16 - Cristiano Ronaldo - Portugal",
+            "EXT 17 - Heung-min Son - Corea del Sur",
+            "EXT 18 - Lamine Yamal - España",
+            "EXT 19 - Christian Pulisic - Estados Unidos",
+            "EXT 2 - Jérémy Doku - Bélgica",
+            "EXT 20 - Federico Valverde - Uruguay",
+            "EXT 4 - Alphonso Davies - Cánada",
+            "EXT 5 - Luis Díaz - Colombia",
+            "EXT 6 - Luka Modrić - Croacia",
+            "EXT 7 - Moisés Caicedo - Ecuador",
+            "EXT 8 - Mohamed Salah - Egipto",
+            "EXT 9 - Jude Bellingham - Inglaterra"
+        ],
+        "repes": []
+    }
+}
